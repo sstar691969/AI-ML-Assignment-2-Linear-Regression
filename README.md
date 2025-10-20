@@ -1,5 +1,7 @@
-William Anderson: # AI-ML-Assignment-2-Linear-Regression
+William Anderson:
+# AI-ML-Assignment-2-Linear-Regression
 King county housing market older homes data set with (Linear-Regression).
+
 Data set description: date	price	bedrooms	bathrooms	sqft_living	sqft_lot	floors	waterfront	view	...	sqft_basement	yr_built	yr_renovated	zipcode	lat	long	sqft_living15	sqft_lot15	sale_year	house_age
 
 Target variables: Predictor (X)
